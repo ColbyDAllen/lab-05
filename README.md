@@ -24,7 +24,7 @@ We then learned how to connect the contraints to these ports that we designed in
 ## Lab Questions
 
 ### 1 - Explain the role of the Top Level file.
-the top level file's main job is to be the link between circuit A and circuit B. This file connects them and then takes each individual
+The top level file's main job is to be the link between circuit A and circuit B. This file connects them and then takes each individual
 circuit and assigns them to a certain switch and then the output of the circuits are designated to led pins. 
 ### 2 - Explain the function of the Constraints file.
 After we set the outputs of both circuits into their assigned switches and led's, the constraints file maps the pins to the said led's 
